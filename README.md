@@ -12,11 +12,6 @@ In the demo, is the annotated entities of Robust04 query set, which are annotate
 
 3)	meanScore: The mean score of entities annotation score corresponding to the given query. It should be between 0 and 1.
 
+
 Execution Requirements:
 -	At least python 3.6.8 
-
-Execution example:
-
-python retrieveRanking.py robustCollectionIndex.txt bumchQ_REL_Annotations.txt PESS4IR-Demo/data/ 0.75
-
-python retrieveRanking.py robustCollectionIndex.txt bumchQ_Spotlight_Annotations.txt PESS4IR-Demo/data/ 0.95
