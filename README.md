@@ -16,5 +16,7 @@ Execution Requirements:
 -	At least python 3.6.8 
 
 Execution example:
+
 python retrieveRanking.py robustCollectionIndex.txt bumchQ_REL_Annotations.txt PESS4IR-Demo/data/ 0.75
+
 python retrieveRanking.py robustCollectionIndex.txt bumchQ_Spotlight_Annotations.txt PESS4IR-Demo/data/ 0.95
